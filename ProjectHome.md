@@ -1,0 +1,4 @@
+An open source wireless sensor. Presently configured for in-home power consumption observation, expandable to utility-scale management and monitoring. Simpler and more extensible than many more sophisticated sensors on the market with a significantly lower cost. Presently provides functionality for automatic meter reading, harmonic distortion analysis and continuous system observation via a dynamically mesh-networked communications grid powered by 802.15.4 standard transceivers.
+
+Present end user interface for communication with and monitoring of prototype unit:
+<img src='http://open-energy-meter.googlecode.com/files/EnergyApplication.jpg' width='50%' height='*'>
